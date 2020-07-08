@@ -1,4 +1,3 @@
-///Mov rainha padrao Processando Threads sendo usados: 7...Estimativa:2[Real:-7]<Checks:1121709> time:629.000000
 #ifndef IA_MINIMAX_H_INCLUDED
 #define IA_MINIMAX_H_INCLUDED
 #include "movimentos.h"
